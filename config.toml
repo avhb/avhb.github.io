@@ -12,30 +12,16 @@ enableEmoji = true
 author = "Arne Vanheesbeke"
 description = "Arne Vanheesbeke's personal website"
 keywords = "blog,personal"
-info = ["System Test Engineer", "Student of Life"]
+info = ["Student of Life"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "2006-01-02"
 since = 2022
-# Git Commit in Footer, uncomment the line below to enable it
-# commit = "https://github.com/luizdepra/hugo-coder/tree/"
-# Right To Left, shift content direction for languagues such as Arabic
-rtl = false
 # Specify light/dark colorscheme
-# Supported values:
-# "auto" (use preference set by browser)
-# "dark" (dark background, light foreground)
-# "light" (light background, dark foreground) (default)
 colorScheme = "auto"
 # Hide the toggle button, along with the associated vertical divider
 hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
-# Custom CSS
-customCSS = []
-# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-customSCSS = []
-# Custom JS
-customJS = []
 
 [taxonomies]
 category = "categories"

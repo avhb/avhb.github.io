@@ -17,3 +17,9 @@ https://scoop.sh/
 This website is set to auto deploy if a code push to the master branch is done
 
 see: https://gohugo.io/hosting-and-deployment/hosting-on-github/
+
+## Theme
+
+Site is based on coder theme
+
+https://github.com/luizdepra/hugo-coder
