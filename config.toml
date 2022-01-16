@@ -47,6 +47,8 @@ icon = "fa fa-2x fa-linkedin"
 weight = 2
 url = "https://www.linkedin.com/in/arne-vanheesbeke-066057197"
 
+# -------------------------
+
 [[languages.en.menu.main]]
 name = "Introduction"
 weight = 1
@@ -55,9 +57,14 @@ url = "introduction/"
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "posts/"
+url = "blog/"
+
+[[languages.en.menu.main]]
+name = "Lists"
+weight = 3
+url = "lists/"
 
 [[languages.en.menu.main]]
 name = "About"
-weight = 3
+weight = 4
 url = "about/"
