@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-01-16T19:38:57+01:00
-draft: true
+draft: false
 ---
 
 # Arne Vanheesbeke
