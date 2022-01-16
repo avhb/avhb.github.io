@@ -6,7 +6,7 @@ draft: false
 
 Welcome to my personal website, this is a place where I intend to share about myself, my interests and general things that come to my mind.
 
-If you want to know more about me, check out the [About]({{< ref "/about" >}} "About me") page.
+If you want to know more about me, check out the [About](/about) page.
 
 The website has 2 sections at the moment.
 
