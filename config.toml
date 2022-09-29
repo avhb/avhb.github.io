@@ -11,8 +11,8 @@ enableEmoji = true
 [params]
 author = "Arne Vanheesbeke"
 description = "Arne Vanheesbeke's personal website"
-keywords = "blog,personal"
-info = ["Student of Life"]
+keywords = "blog,personal,testing,qa"
+info = ["Test Engineer"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "2006-01-02"
 since = 2022
@@ -39,7 +39,7 @@ url = "https://github.com/avhb/"
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
 weight = 3
-url = "https://twitter.com/arne151/"
+url = "https://twitter.com/arne_vhb"
 
 [[params.social]]
 name = "LinkedIn"
@@ -47,24 +47,29 @@ icon = "fa fa-2x fa-linkedin"
 weight = 2
 url = "https://www.linkedin.com/in/arne-vanheesbeke-066057197"
 
-# -------------------------
+# ---
 
 [[languages.en.menu.main]]
-name = "Introduction"
+name = "About"
 weight = 1
-url = "introduction/"
+url = "about/"
+
+[[languages.en.menu.main]]
+name = "The Testers Toolchest"
+weight = 2
+url = "the-testers-toolchest/"
+
+[[languages.en.menu.main]]
+name = "HomeLab"
+weight = 3
+url = "homelab/"
 
 [[languages.en.menu.main]]
 name = "Blog"
-weight = 2
+weight = 4
 url = "blog/"
 
 [[languages.en.menu.main]]
 name = "Lists"
-weight = 3
+weight = 5
 url = "lists/"
-
-[[languages.en.menu.main]]
-name = "About"
-weight = 4
-url = "about/"

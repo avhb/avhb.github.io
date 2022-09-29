@@ -2,17 +2,20 @@
 
 Personal website avhb.github.io
 
-## Installing scoop on windows
+## Set up development environment (Windows)
 
-https://scoop.sh/
+pre-requisites:
 
-`Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')`
+- have git installed ssh keys configured to github
+- vscode
 
-## Installing hugo-extended
+1. download hugo-extended binary [here](https://github.com/gohugoio/hugo/releases)
+2. add the binary to the PATH env variable in Windows settings
+3. clone this repo locally `git clone git@github.com:avhb/avhb.github.io.git`
+4. `git submodule init` and `git submodule update`
+5. `hugo server` for dev server 
 
-`scoop install hugo-extended`
-
-## Github Action
+## Github Actions
 
 This website is set to auto deploy if a code push to the master branch is done
 
@@ -20,6 +23,6 @@ see: https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 ## Theme
 
-Site is based on coder theme
+Site is based on the coder theme
 
 https://github.com/luizdepra/hugo-coder
