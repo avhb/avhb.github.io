@@ -6,7 +6,7 @@ draft: false
 
 # Arne Vanheesbeke
 
-I am a 20-something Test Engineer, based in the beautiful city of [Kortijk](https://en.wikipedia.org/wiki/Kortrijk), Belgium.
+I am a 20-something Test Engineer, based in Kortijk, Belgium.
 
 ## Why I am creating this website
 
@@ -22,6 +22,7 @@ The website has 2 sections at the moment.
 2. [Lists](/lists): Personal reccomendation lists for various topics (books, films, music I like...).
 
 Interests:
+
 - Literature
 - Transit
 - Science/Technology
@@ -31,4 +32,3 @@ Interests:
 # Contact
 
 If you wish to contact me, your best bet is to send me an [email](mailto:arne151@gmail.com).
-

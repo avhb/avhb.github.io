@@ -4,5 +4,15 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"editor.formatOnSave": true,
+		"workbench.colorTheme": "Monokai",
+		"workbench.iconTheme": "vscode-icons"
+	},
+	"extensions": {
+		"recommendations": [
+		  "esbenp.prettier-vscode",
+		  "vscode-icons-team.vscode-icons"
+		]
+	  }
 }

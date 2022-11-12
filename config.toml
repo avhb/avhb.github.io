@@ -55,21 +55,14 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "The Testers Toolchest"
-weight = 2
-url = "the-testers-toolchest/"
-
-[[languages.en.menu.main]]
-name = "HomeLab"
-weight = 3
-url = "homelab/"
-
-[[languages.en.menu.main]]
 name = "Blog"
 weight = 4
 url = "blog/"
 
+# homelab content
+# testing content
+
 [[languages.en.menu.main]]
-name = "Lists"
+name = "Awesome Lists (curated by me)"
 weight = 5
 url = "lists/"

@@ -13,7 +13,7 @@ pre-requisites:
 2. add the binary to the PATH env variable in Windows settings
 3. clone this repo locally `git clone git@github.com:avhb/avhb.github.io.git`
 4. `git submodule init` and `git submodule update`
-5. `hugo server` for dev server 
+5. `hugo server` for dev server
 
 ## Github Actions
 
