@@ -2,6 +2,7 @@
 title: "Setting up a Windows laptop/workstation"
 date: 2022-10-21T21:34:58+02:00
 draft: true
+tags: ["windows"]
 ---
 
 In this post I will share how I set up a Windows-based workstation to my liking.
