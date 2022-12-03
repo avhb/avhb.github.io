@@ -1,5 +1,5 @@
 ---
-title: "Directories Portals"
+title: "Directories and Portals"
 date: 2022-12-03T10:20:45+01:00
 draft: false
 ---
