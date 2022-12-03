@@ -60,6 +60,6 @@ weight = 2
 url = "blog/"
 
 [[languages.en.menu.main]]
-name = "The avhb directory"
+name = "The AVHB directory"
 weight = 3
 url = "directory/"
