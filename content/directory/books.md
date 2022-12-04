@@ -77,6 +77,7 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
   - [x] Richard Feynman - **"Surely You're Joking, Mr. Feynman!"** ⭐⭐⭐
 - Other:
   - [ ] Jean D'Ormesson - **Ik leef altijd** 📖📖📖
+  - [ ] Lulu Miller - **Why Fish Don't Exist** 📖📖📖
   - [ ] Donald A. Norman - **The Design of Everyday Things** 📖📖
   - [ ] Marc Erkens - **Als muziek spreekt** 📖📖
   - [ ] Bart Vanacker - **Verdwijnend België** 📖📖
