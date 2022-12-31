@@ -22,14 +22,14 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 
 # 🐉 Fiction
 
-- [x] Ilja Leonard Pfeijffer - **La Superba** ⭐⭐⭐
+- [x] Ilja Leonard Pfeijffer - **La Superba** ⭐⭐⭐ 
 - [x] Ilja Leonard Pfeijffer - **Grand Hotel Europa** ⭐⭐⭐
-- [x] Ken Follett - **The Pillars of the Earth** (Kingsbridge 1) ⭐⭐⭐
-- [ ] Ken Follett - **World Without End** (Kingsbridge 2) 🦉
+- [x] Ken Follett - **The Pillars of the Earth** (Kingsbridge 1) ⭐⭐⭐ (2022)
+- [x] Ken Follett - **World Without End** (Kingsbridge 2) ⭐⭐⭐ (2022)
 - [x] Ken Follett - **A Column of Fire** (Kingsbridge 3) ⭐⭐⭐
 - [ ] Ken Follett - **The Evening and the Morning** (Kingsbridge 4) 📖📖
 - [ ] Dostojevski - **The Brothers Karamazov** 📖
-- [ ] Herman Koch - **Zomerhuis met zwembad** 📖📖📖
+- [x] Herman Koch - **Zomerhuis met zwembad** ⭐⭐⭐ (12/2022)
 - [ ] Ken Kesey - **One Flew Over the Cuckoo's Nest** 📖
 - [x] Ernest Cline - **Ready Player One** ⭐
 - [ ] Douglas Adams - **The Hitchhiker's Guide to the Galaxy** 📖📖
@@ -76,7 +76,7 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 - Biography:
   - [x] Richard Feynman - **"Surely You're Joking, Mr. Feynman!"** ⭐⭐⭐
 - Other:
-  - [ ] Jean D'Ormesson - **Ik leef altijd** 📖📖📖
+  - [ ] Jean D'Ormesson - **Ik leef altijd** 🦉
   - [ ] Lulu Miller - **Why Fish Don't Exist** 📖📖📖
   - [ ] Donald A. Norman - **The Design of Everyday Things** 📖📖
   - [ ] Marc Erkens - **Als muziek spreekt** 📖📖
