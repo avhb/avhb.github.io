@@ -26,10 +26,11 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 - [x] Ilja Leonard Pfeijffer - **Grand Hotel Europa** ⭐⭐⭐
 - [x] Ken Follett - **The Pillars of the Earth** (Kingsbridge 1) ⭐⭐⭐ (2022)
 - [x] Ken Follett - **World Without End** (Kingsbridge 2) ⭐⭐⭐ (2022)
-- [x] Ken Follett - **A Column of Fire** (Kingsbridge 3) ⭐⭐⭐
+- [x] Ken Follett - **A Column of Fire** (Kingsbridge 3) ⭐⭐⭐ (2021)
 - [ ] Ken Follett - **The Evening and the Morning** (Kingsbridge 4) 📖📖
 - [ ] Dostojevski - **The Brothers Karamazov** 📖
 - [x] Herman Koch - **Zomerhuis met zwembad** ⭐⭐⭐ (12/2022)
+- [x] Herman Koch - **Het Diner** ⭐️⭐️⭐️ (01/2023)
 - [ ] Ken Kesey - **One Flew Over the Cuckoo's Nest** 📖
 - [x] Ernest Cline - **Ready Player One** ⭐
 - [ ] Douglas Adams - **The Hitchhiker's Guide to the Galaxy** 📖📖
