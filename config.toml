@@ -63,3 +63,8 @@ url = "about/"
 name = "The AVHB directory"
 weight = 3
 url = "directory/"
+
+[[languages.en.menu.main]]
+name = "AVHB Recommends"
+weight = 4
+url = "recommendations/"
