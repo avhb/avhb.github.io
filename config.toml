@@ -65,6 +65,6 @@ weight = 3
 url = "directory/"
 
 [[languages.en.menu.main]]
-name = "AVHB Recommends"
+name = "Things I like"
 weight = 4
-url = "recommendations/"
+url = "things-i-like/"
