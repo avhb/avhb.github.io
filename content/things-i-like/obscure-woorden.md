@@ -5,4 +5,5 @@ draft: false
 ---
 
 recalcitrant - weerspannig/terughoudend
-chambrette - afgesloten deel van een slaapzaal (internaten)
+
+per abuis
