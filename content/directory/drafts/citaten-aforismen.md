@@ -20,6 +20,8 @@ NL: https://nl.wikipedia.org/wiki/Paradigma_(wetenschapsfilosofie)
 
 > Wer nicht denken will, fliegt raus ~ [Joseph Beuys](https://en.wikipedia.org/wiki/Joseph_Beuys)
 
+> Si tous les dégoutés s'en vont, il n'y a que les dégoutants qui restent.
+
 # Other Resources
 
 The art of war
