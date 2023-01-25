@@ -7,3 +7,5 @@ draft: false
 - recalcitrant - weerspannig/terughoudend
 - per abuis
 - [demagogie](https://nl.m.wikipedia.org/wiki/Demagogie)
+- Eloquent
+- Flux de bouche
