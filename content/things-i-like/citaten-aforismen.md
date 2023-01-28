@@ -18,7 +18,7 @@ Citaten, Aforismen, Bon Mots, Adages, Heuristics, Paradigms
 
 > Qui sine peccato est, primus lapidem mittat - Wie zonder zonde is, werpe de eerste steen.
 
-> 
+> One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors ~ Plato
 
 Antieke principes van de griekse en romeinse bouwheren:
 1. Velustas - Schoonheid 
