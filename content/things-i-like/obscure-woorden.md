@@ -9,3 +9,4 @@ draft: false
 - [demagogie](https://nl.m.wikipedia.org/wiki/Demagogie)
 - Eloquent
 - Flux de bouche
+- vademecum
