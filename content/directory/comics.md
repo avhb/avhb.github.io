@@ -7,3 +7,5 @@ draft: false
 ## Development
 
 [Commitstrip](https://www.commitstrip.com/)
+
+smbc xkcd
