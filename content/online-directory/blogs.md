@@ -20,7 +20,7 @@ draft: false
 
 ## Transit
 
-- http://www.robertaehnelt.de/ (design studies transit maps)
+- http://www.robertaehnelt.de/ (studies of transit map design)
 - https://www.markovenden.com/
 - http://steveprentice.net/tube/TfLSillyMaps/
 - http://transitmap.net/search/belgium
