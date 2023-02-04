@@ -10,3 +10,5 @@ draft: false
 - Eloquent
 - Flux de bouche
 - vademecum
+- scrupule
+- rancune
