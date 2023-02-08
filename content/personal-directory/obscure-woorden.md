@@ -12,3 +12,6 @@ draft: false
 - vademecum
 - scrupule
 - rancune
+ofschoon
+mits
+desalniettemin
