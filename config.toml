@@ -62,9 +62,4 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "The AVHB directory"
 weight = 3
-url = "online-directory/"
-
-[[languages.en.menu.main]]
-name = "Things I like"
-weight = 4
-url = "personal-directory/"
+url = "directory/"
