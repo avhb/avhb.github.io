@@ -7,3 +7,5 @@ draft: false
 - [Commitstrip](https://www.commitstrip.com/)
 - smbc
 - xkcd
+
+![](https://imgs.xkcd.com/comics/standards.png)

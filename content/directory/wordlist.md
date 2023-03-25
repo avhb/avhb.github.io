@@ -9,6 +9,7 @@ draft: false
 - [demagogie](https://nl.m.wikipedia.org/wiki/Demagogie)
 - Eloquent
 - Flux de bouche
+- Bon mot
 - vademecum
 - scrupule
 - rancune
@@ -19,3 +20,8 @@ draft: false
 - zwager
 - laure
 - anachronisme
+- desalniettemin
+- gegadigden - geinteresseerden/belangstellenden
+- doch
+- de gefortuneerden van deze wereld
+- [epibreren](https://nl.wikipedia.org/wiki/Epibreren)
