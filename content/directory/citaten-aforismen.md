@@ -76,18 +76,6 @@ Antieke principes van de griekse en romeinse bouwheren:
 2. Commoditas - Bruikbaarheid
 3. Solitas - Kwaliteit
 
-Vitruvius' Principes:
-venustas (schoonheid)
-utilitas (gebruiksvriendelijkheid)
-firmitas (stevigheid)
-
-
-
-
-
----
-
-
 Heuristic
 https://en.wikipedia.org/wiki/Heuristic
 
