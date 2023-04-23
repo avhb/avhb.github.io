@@ -28,6 +28,7 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 - [x] Ken Follett - **World Without End** (Kingsbridge 2) ⭐⭐⭐ (2022)
 - [x] Ken Follett - **A Column of Fire** (Kingsbridge 3) ⭐⭐⭐ (2021)
 - [ ] Ken Follett - **The Evening and the Morning** (Kingsbridge 4) 📖📖
+- [x] Herman Koch - **Geachte Heer M.** ⭐⭐ (Q1 2023)
 - [ ] Dostojevski - **The Brothers Karamazov** 📖
 - [x] Herman Koch - **Zomerhuis met zwembad** ⭐⭐⭐ (12/2022)
 - [x] Herman Koch - **Het Diner** ⭐️⭐️⭐️ (01/2023)
