@@ -13,6 +13,8 @@ Axioma's, Heuristieken, Citaten, Paradigms,
 
 > 'A cynic' is what an idealist calls an realist
 
+> Die dosis macht das gift.
+
 > Wer nicht denken will, fliegt raus. ~ [Joseph Beuys](https://en.wikipedia.org/wiki/Joseph_Beuys)
 
 > Si tous les dégoutés s'en vont, il n'y a que les dégoutants qui restent.
