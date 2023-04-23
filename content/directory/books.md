@@ -22,8 +22,8 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 
 # 🐉 Fiction
 
-- [x] Ilja Leonard Pfeijffer - **La Superba** ⭐⭐⭐ 
-- [x] Ilja Leonard Pfeijffer - **Grand Hotel Europa** ⭐⭐⭐
+- [x] Ilja Leonard Pfeijffer - **La Superba** ⭐⭐⭐ (2020)
+- [x] Ilja Leonard Pfeijffer - **Grand Hotel Europa** ⭐⭐⭐ (2020)
 - [x] Ken Follett - **The Pillars of the Earth** (Kingsbridge 1) ⭐⭐⭐ (2022)
 - [x] Ken Follett - **World Without End** (Kingsbridge 2) ⭐⭐⭐ (2022)
 - [x] Ken Follett - **A Column of Fire** (Kingsbridge 3) ⭐⭐⭐ (2021)
