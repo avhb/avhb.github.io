@@ -69,6 +69,8 @@ Axioma's, Heuristieken, Citaten, Paradigms,
 
 > The Road to Tyranny Is Paved With Good Intentions
 
+> No plan survives first contact with the enemy ~ Helmuth von Moltke *1800 ✝1891 - Prussian military commander
+
 ```
 I � UNICODE
 ```
