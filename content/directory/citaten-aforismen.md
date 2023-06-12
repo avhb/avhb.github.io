@@ -21,6 +21,8 @@ Axioma's, Heuristieken, Citaten, Paradigms,
 
 > Traduire, c'est trahir.
 
+> A winner is just a loser who tried one more time. ~ George M. Moore Jr.
+
 > L'amour est un ideal, mais j'suis un idealiste. ~ [Romeo Elvis - Soleil](https://www.youtube.com/watch?v=JmIPRfMhzlM) ([1:23](https://www.youtube.com/watch?v=JmIPRfMhzlM&t=01m23s))
 
 > Qui sine peccato est, primus lapidem mittat - Wie zonder zonde is, werpe de eerste steen.
