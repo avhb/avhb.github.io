@@ -1,5 +1,5 @@
 ---
-title: "Classic Flemish Videos"
+title: "Vlaamse Pareltjes"
 date: 2023-07-01T14:10:36+01:00
 draft: false
 ---
