@@ -23,7 +23,11 @@ Axioma's, Heuristieken, Citaten, Paradigms,
 
 > A winner is just a loser who tried one more time. ~ George M. Moore Jr.
 
-> L'amour est un ideal, mais j'suis un idealiste. ~ [Romeo Elvis - Soleil](https://www.youtube.com/watch?v=JmIPRfMhzlM) ([1:23](https://www.youtube.com/watch?v=JmIPRfMhzlM&t=01m23s))
+> L'amour est un ideal, mais j'suis un idealiste. ~ [Romeo Elvis - Soleil @  1:23](https://www.youtube.com/watch?v=JmIPRfMhzlM&t=01m23s)
+
+> Vaut mieux vivre avec des remords qu'avec des regrets. ~ [Bigflo & Oli - Dommage @ 3:09](https://youtu.be/8AF-Sm8d8yk?t=189)
+
+> Wat nut heeft is mooi, wat mooi is heeft nut.' Daarom is een sleepboot mooier dan een luxejacht, daarom is een goed ontworpen gebruiksvoorwerp mooier dan een kunstwerk. ~ Ilja Leonard Pfeijffer - Brieven uit Genua
 
 > Qui sine peccato est, primus lapidem mittat - Wie zonder zonde is, werpe de eerste steen.
 

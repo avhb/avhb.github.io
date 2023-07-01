@@ -24,6 +24,7 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 
 - [x] Ilja Leonard Pfeijffer - **La Superba** ⭐⭐⭐ (2020)
 - [x] Ilja Leonard Pfeijffer - **Grand Hotel Europa** ⭐⭐⭐ (2020)
+- [ ] Ilja Leonard Pfeijffer - **De Filosofie van de Heuvel** 🦉 (2023)
 - [x] Ken Follett - **The Pillars of the Earth** (Kingsbridge 1) ⭐⭐⭐ (2022)
 - [x] Ken Follett - **World Without End** (Kingsbridge 2) ⭐⭐⭐ (2022)
 - [x] Ken Follett - **A Column of Fire** (Kingsbridge 3) ⭐⭐⭐ (2021)
@@ -47,6 +48,7 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 - [ ] Charles Dickens - **A Tale of Two Cities** 📖
 - [ ] Nancy Farmen - **The House of the Scorpion** 📖
 - [ ] Ian Marchant - **Parallel Lines** 📖
+- [ ] Michel Houellebecq - **Sérotonine** 📖📖📖
 
 # 📜 Non-Fiction
 
@@ -135,6 +137,7 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
   - [ ] Leil Lowndes - **How to Talk to Anyone** 📖
   - [ ] Roger Fisher - **Getting to Yes** 📖
   - [ ] Robert B. Cialdini - **Influence: The Psychology of Persuasion** 📖
+  - [ ] Gerald M. Weinberg - **An Introduction to General Systems Thinking**
 - City Planning:
   - [ ] Steven Higashide – **Better Buses, Better Cities** 📖
   - [ ] Donald Shoup – **The High Cost of Free Parking** 📖
