@@ -1,6 +1,6 @@
 ---
 title: "Vlaamse Pareltjes"
-date: 2023-07-01T14:10:36+01:00
+date: 2023-07-01T14:10:36+02:00
 draft: false
 ---
 
