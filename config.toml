@@ -60,6 +60,6 @@ url = "about/"
 #url = "blog/"
 
 [[languages.en.menu.main]]
-name = "The AVHB directory"
+name = "Directory"
 weight = 3
-url = "directory/"
+url = "lists/"

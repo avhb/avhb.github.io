@@ -24,7 +24,7 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 
 - [x] Ilja Leonard Pfeijffer - **La Superba** ⭐⭐⭐ (2020)
 - [x] Ilja Leonard Pfeijffer - **Grand Hotel Europa** ⭐⭐⭐ (2020)
-- [ ] Ilja Leonard Pfeijffer - **De Filosofie van de Heuvel** 🦉 (2023)
+- [x] Ilja Leonard Pfeijffer - **De Filosofie van de Heuvel** ⭐⭐ (08/2023)
 - [x] Ken Follett - **The Pillars of the Earth** (Kingsbridge 1) ⭐⭐⭐ (2022)
 - [x] Ken Follett - **World Without End** (Kingsbridge 2) ⭐⭐⭐ (2022)
 - [x] Ken Follett - **A Column of Fire** (Kingsbridge 3) ⭐⭐⭐ (2021)
@@ -36,18 +36,15 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 - [ ] Ken Kesey - **One Flew Over the Cuckoo's Nest** 📖
 - [x] Ernest Cline - **Ready Player One** ⭐
 - [ ] Douglas Adams - **The Hitchhiker's Guide to the Galaxy** 📖📖
-- [ ] George Orwell - **Animal Farm** 📖
 - [ ] J.D. Salinger - **The Catcher in the Rye** 📖
 - [ ] Ilja Leonard Pfeiffer - **Brieven uit Genua** 🦉
 - [ ] Ilja Leonard Pfeiffer - **Het grote baggerboek** 📖📖
 - [ ] William Goldman - **The Princess Bride** 📖
 - [ ] Kurt Vonnegut Jr. - **Breakfast of Champions** 📖
 - [ ] H.G. Wells - **The Invisible Man** 📖
-- [ ] Scott Fitzgerald - **The Great Gatsby** 📖
 - [ ] Joseph Heller - **Catch-22** 📖
 - [ ] Charles Dickens - **A Tale of Two Cities** 📖
 - [ ] Nancy Farmen - **The House of the Scorpion** 📖
-- [ ] Ian Marchant - **Parallel Lines** 📖
 - [ ] Michel Houellebecq - **Sérotonine** 📖📖📖
 
 # 📜 Non-Fiction
@@ -77,7 +74,7 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
   - [x] Neil Degrasse Tyson - **Astrophysics for People in a Hurry** ⭐⭐
   - [ ] David Bodanis - **E=mc2** 📖📖
   - [x] Matt Parker - **Humble Pi** ⭐⭐⭐
-- Biography:
+- Biographies:
   - [x] Richard Feynman - **"Surely You're Joking, Mr. Feynman!"** ⭐⭐⭐
 - Other:
   - [ ] Jean D'Ormesson - **Ik leef altijd** 🦉
@@ -104,7 +101,7 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
   - [ ] Nir Eyal - **Hooked** 📖
   - [ ] Adam Alter - **Irresistible** 📖
   - [ ] Heidi Kastner - **Dummheit** 📖
-- Self Help Books:
+- Life:
   - [ ] Dirk De Wachter - **De kunst van het ongelukkig zijn** 📖📖
   - [ ] Mark Manson - **The Subtle Art of Not Giving a F\*ck** 📖📖
   - [ ] Josh Kaufman - **The First 20 Hours: How to Learn Anything... Fast!** 📖
@@ -154,13 +151,8 @@ Use https://recommendmeabook.com or http://bookseer.com to find books alike to a
 
 # ☕ Coffee table books
 
-_You don't "read" coffee table books._
+I am not rating coffee table books, if they are in this list it means I like it, get one of these.
 
-- Randall Munroe - **How To** ⭐⭐⭐
-- Randall Munroe - **What If?** ⭐⭐⭐
-- Randall Munroe - **Thing Explainer** ⭐⭐
-- Pieter Neirinckx - **Affiches Op Het Spoor** ⭐⭐⭐
-- Roman Mars & Kurt Kohlstedt - **The 99% Invisible City** ⭐⭐⭐
-- David Eagleman - **Sum Forty Tales From The Afterlives** ⭐
-- The Art of War - **Sun Tzu** ⭐⭐⭐
-- Stephen Potter & Frank Wilson - **The Theory and Practice of Gamesmanship or The Art of Winning Games Without Actually Cheating** ⭐⭐⭐ (interne keuken 2017-06-24 1:19:37)
+- Randall Munroe - **How To** and **What If?**
+- Roman Mars & Kurt Kohlstedt - **The 99% Invisible City**
+- Stephen Potter & Frank Wilson - **The Theory and Practice of Gamesmanship or The Art of Winning Games Without Actually Cheating** ⭐⭐⭐ (Interne Keuken 2017-06-24 1:19:37)

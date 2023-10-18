@@ -1,17 +1,14 @@
 ---
-title: "Citaten"
+title: "Citaten en aforismen [NL]"
 date: 2022-11-27T22:00:14+01:00
 draft: false
 ---
 
-Citaten, Aforismen, Bon Mots, Adages, Heuristieken, Paradigms
-Axioma's, Heuristieken, Citaten, Paradigms,
-
----
+Citaten, [Aforismen](https://nl.wikipedia.org/wiki/Aforisme), Bon Mots, Adages, Heuristieken, Axioma's, Paradigma's
 
 > Dieu me pardonnera, c'est son métier. ~ [Heinrich Heine](https://en.wikipedia.org/wiki/Heinrich_Heine)
 
-> 'A cynic' is what an idealist calls an realist
+> 'A cynic' is what an idealist calls an realist.
 
 > Die dosis macht das gift.
 
@@ -23,7 +20,7 @@ Axioma's, Heuristieken, Citaten, Paradigms,
 
 > A winner is just a loser who tried one more time. ~ George M. Moore Jr.
 
-> L'amour est un ideal, mais j'suis un idealiste. ~ [Romeo Elvis - Soleil @  1:23](https://www.youtube.com/watch?v=JmIPRfMhzlM&t=01m23s)
+> L'amour est un ideal, mais j'suis un idealiste. ~ [Romeo Elvis - Soleil @ 1:23](https://www.youtube.com/watch?v=JmIPRfMhzlM&t=01m23s)
 
 > Vaut mieux vivre avec des remords qu'avec des regrets. ~ [Bigflo & Oli - Dommage @ 3:09](https://youtu.be/8AF-Sm8d8yk?t=189)
 
@@ -35,7 +32,7 @@ Axioma's, Heuristieken, Citaten, Paradigms,
 
 > Be Kind; Everyone You Meet is Fighting a Hard Battle ~ John Watson (Ian Maclaren)
 
-> Never interrupt your enemy while he is making a mistake
+> Never interrupt your enemy while he is making a mistake.
 
 > There are decades where nothing happens; and there are weeks where decades happen ~ Vladimir Ilich Lenin
 
@@ -75,14 +72,15 @@ Axioma's, Heuristieken, Citaten, Paradigms,
 
 > The Road to Tyranny Is Paved With Good Intentions
 
-> No plan survives first contact with the enemy ~ Helmuth von Moltke *1800 ✝1891 - Prussian military commander
+> No plan survives first contact with the enemy ~ Helmuth von Moltke \*1800 ✝1891 - Prussian military commander
 
 ```
 I � UNICODE
 ```
 
 Antieke principes van de griekse en romeinse bouwheren:
-1. Velustas - Schoonheid 
+
+1. Velustas - Schoonheid
 2. Commoditas - Bruikbaarheid
 3. Solitas - Kwaliteit
 
