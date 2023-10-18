@@ -1,8 +1,10 @@
 ---
-title: "Vlaamse Pareltjes"
+title: "Vlaamse Pareltjes [NL]"
 date: 2023-07-01T14:10:36+02:00
 draft: false
 ---
+
+Ludiek audiovisueel entertainment.
 
 - [West-Vlaamse rally](https://www.youtube.com/watch?v=7ziEkt3o5I4)
 - [Obusios fresios](https://www.youtube.com/watch?v=YWD3GqLOTgk)
