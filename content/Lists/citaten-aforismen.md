@@ -4,7 +4,7 @@ date: 2022-11-27T22:00:14+01:00
 draft: false
 ---
 
-Citaten, [Aforismen](https://nl.wikipedia.org/wiki/Aforisme), Bon Mots, Adages, Heuristieken, Axioma's, Paradigma's
+Dit is een allegaartje van resonerende citaten, [aforismen](https://nl.wikipedia.org/wiki/Aforisme), bon mots, adages, spreekwoorden, uitdrukkingen, [heuristieken](https://nl.wikipedia.org/wiki/Heuristiek), axioma's, [paradigma's](<https://nl.wikipedia.org/wiki/Paradigma_(wetenschapsfilosofie)>) en extracten die ik tegenkwam en belangrijk genoeg achtte om hier op te schrijven.
 
 > Dieu me pardonnera, c'est son métier. ~ [Heinrich Heine](https://en.wikipedia.org/wiki/Heinrich_Heine)
 
@@ -73,20 +73,3 @@ Citaten, [Aforismen](https://nl.wikipedia.org/wiki/Aforisme), Bon Mots, Adages, 
 > The Road to Tyranny Is Paved With Good Intentions
 
 > No plan survives first contact with the enemy ~ Helmuth von Moltke \*1800 ✝1891 - Prussian military commander
-
-```
-I � UNICODE
-```
-
-Antieke principes van de griekse en romeinse bouwheren:
-
-1. Velustas - Schoonheid
-2. Commoditas - Bruikbaarheid
-3. Solitas - Kwaliteit
-
-Heuristic
-https://en.wikipedia.org/wiki/Heuristic
-
-Paradigm
-EN: https://en.wikipedia.org/wiki/Paradigm
-NL: https://nl.wikipedia.org/wiki/Paradigma_(wetenschapsfilosofie)
