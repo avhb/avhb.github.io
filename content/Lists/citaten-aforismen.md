@@ -28,13 +28,13 @@ Dit is een allegaartje van resonerende citaten, [aforismen](https://nl.wikipedia
 
 > Qui sine peccato est, primus lapidem mittat - Wie zonder zonde is, werpe de eerste steen.
 
-> One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors ~ Plato
+> One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors. ~ Plato
 
-> Be Kind; Everyone You Meet is Fighting a Hard Battle ~ John Watson (Ian Maclaren)
+> Be Kind; Everyone You Meet is Fighting a Hard Battle. ~ John Watson (Ian Maclaren)
 
 > Never interrupt your enemy while he is making a mistake.
 
-> There are decades where nothing happens; and there are weeks where decades happen ~ Vladimir Ilich Lenin
+> There are decades where nothing happens; and there are weeks where decades happen. ~ Vladimir Ilich Lenin
 
 > Wie spot met zichzelf wordt meer vertrouwd dan de kloot die zich heeft vastgeklonken aan zijn eigen ernst.
 
@@ -48,28 +48,26 @@ Dit is een allegaartje van resonerende citaten, [aforismen](https://nl.wikipedia
 
 > My ability to form a conclusion is impeded by a complete lack of understanding of what I am doing.
 
-> **Parkinson's law**: the adage that "work expands so as to fill the time available for its completion"
+> **Parkinson's law**: the adage that "work expands so as to fill the time available for its completion".
 
 > **Wirth's law**: an adage on computer performance which states that software is getting slower more rapidly than hardware is becoming faster.
 
 > **Hanlon’s Razor**: never ascribe to malice that which can be ascribed to ignorance or stupidity.
 
-> **Cunningham's law**: the best way to get an answer to a question is to answer it wrongly yourself, and wait for someone to correct you
-
-> it's Easier to Ask for Forgiveness than for Permission
+> **Cunningham's law**: the best way to get an answer to a question is to answer it wrongly yourself, and wait for someone to correct you.
 
 > The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum - even encourage the more critical and dissident views. ~ Noam Chomsky
 
-> Never argue with stupid people, they will drag you down to their level and then beat you with experience ~ Mark Twain
+> Never argue with stupid people, they will drag you down to their level and then beat you with experience. ~ Mark Twain
 
-> I'm "still afraid to use spaces in file names" years old
+> I'm "still afraid to use spaces in file names" years old.
 
 > You were so preoccupied with whether or not you could, you didn't stop to think if you should.
 
-> No one can make you feel inferior without your consent
+> No one can make you feel inferior without your consent.
 
 > It is better to light a candle than curse the darkness.
 
-> The Road to Tyranny Is Paved With Good Intentions
+> The Road to Tyranny Is Paved With Good Intentions.
 
-> No plan survives first contact with the enemy ~ Helmuth von Moltke \*1800 ✝1891 - Prussian military commander
+> No plan survives first contact with the enemy. ~ Helmuth von Moltke \*1800 ✝1891 - Prussian military commander
