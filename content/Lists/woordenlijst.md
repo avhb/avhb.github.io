@@ -28,3 +28,4 @@ Mooie woorden.
 - de gefortuneerden van deze wereld
 - [epibreren](https://nl.wikipedia.org/wiki/Epibreren)
 - eclectisch
+- anatopisme
