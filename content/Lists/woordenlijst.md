@@ -19,7 +19,6 @@ Mooie woorden.
 - mits
 - desalniettemin
 - confrater
-- zwager
 - laure
 - anachronisme
 - desalniettemin
@@ -29,3 +28,4 @@ Mooie woorden.
 - [epibreren](https://nl.wikipedia.org/wiki/Epibreren)
 - eclectisch
 - anatopisme
+- persnickety
