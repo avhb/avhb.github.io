@@ -74,3 +74,4 @@ Dit is een allegaartje van resonerende citaten, [aforismen](https://nl.wikipedia
 
 > [All models are wrong, some are useful.](https://en.wikipedia.org/wiki/All_models_are_wrong)
 
+> “No matter what the problem is, it’s always a people problem.” ~ Jerry Weinberg
