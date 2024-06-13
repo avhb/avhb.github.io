@@ -29,3 +29,5 @@ Mooie woorden.
 - eclectisch
 - anatopisme
 - persnickety
+- word salad
+- thesaurus
