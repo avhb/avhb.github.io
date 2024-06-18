@@ -32,3 +32,7 @@ Mooie woorden.
 - persnickety
 - word salad
 - thesaurus
+- I concur
+- macabre
+- Anemoia ~ yearning for a past that you never actually experienced
+- complect, complected
