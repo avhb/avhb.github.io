@@ -26,6 +26,7 @@ Mooie woorden.
 - doch
 - de gefortuneerden van deze wereld
 - [epibreren](https://nl.wikipedia.org/wiki/Epibreren)
+- R&R ~ Rest and Recuperation
 - eclectisch
 - anatopisme
 - persnickety
