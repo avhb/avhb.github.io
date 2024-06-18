@@ -80,6 +80,8 @@ Dit is een allegaartje van resonerende citaten, [aforismen](https://nl.wikipedia
 
 > The faintest ink is better than the best memory ~ Mad Men
 
+> Sometimes you have to let go in order to get what you want.
+
 > Gierigheid bedriegd wijsheid
 
 > Online romance is an oxymoron
