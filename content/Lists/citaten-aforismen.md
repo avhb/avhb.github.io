@@ -83,3 +83,5 @@ Dit is een allegaartje van resonerende citaten, [aforismen](https://nl.wikipedia
 > Gierigheid bedriegd wijsheid
 
 > Online romance is an oxymoron
+
+> A Bad System Will Beat a Good Person Every Time ~ [W. Edwards Deming](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
