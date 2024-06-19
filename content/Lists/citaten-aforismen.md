@@ -87,3 +87,5 @@ Dit is een allegaartje van resonerende citaten, [aforismen](https://nl.wikipedia
 > Online romance is an oxymoron
 
 > A Bad System Will Beat a Good Person Every Time ~ [W. Edwards Deming](https://deming.org/a-bad-system-will-beat-a-good-person-every-time/)
+
+> If something is going to happen to me, I want to be there. ~ Albert Camus / Als er iets met me gebeurd wil ik erbij zijn 
